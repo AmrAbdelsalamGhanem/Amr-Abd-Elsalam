@@ -1,97 +1,60 @@
-# Hi, I'm Abssalam 👋  
-### 🛍️ Shopify Wizard | 🔍 CRO Specialist | 🖥️ Coding Enthusiast  
 
-Welcome to my GitHub! I specialize in crafting **high-performing Shopify stores**.  
-Here, you'll find:
-- Custom Shopify themes.
-- Conversion rate optimization scripts.
-- Guides to advanced Shopify features.
+# 🌟 Welcome to Abssalam's GitHub Profile! 🌟
 
-🌟 **Let’s build something awesome together!**  
-
-# Shopify Product Variant Customization  
-
-This repository contains a step-by-step guide and working code for customizing Shopify product variant selectors. The customization improves user experience and supports dynamic updates.
-
-## Features:
-- Custom product variant selector using Liquid, JavaScript, and CSS.
-- Dynamic updates for product details (price, image, etc.).
-- Optimized for CRO (Conversion Rate Optimization).
-
-## File Structure:
-- **assets/**: Contains styles and scripts for dynamic updates.
-- **snippets/**: Reusable Liquid code for variant customization.
-- **templates/**: A custom product template demonstrating the implementation.
-
-## Preview:
-![Preview](preview.png)
-
-## Installation:
-1. Upload the `assets` files to your Shopify store.
-2. Add the `variant-selector.liquid` snippet to your theme.
-3. Use the `product.custom.liquid` template for products you want to customize.
-
-## Demo:
-[Live Demo](https://github.com/Absalam/shopify-product-variant-customization/demo)
+## About Me 🚀
+Hi there! 👋 I'm **Abssalam**, a creative **E-commerce Specialist** and **Content Creator** based in Egypt 🇪🇬. I love crafting digital solutions, optimizing online stores, and sharing knowledge to empower businesses.
 
 ---
 
-# 🌟 مرحبًا بكم في صفحتي على GitHub 🌟
-
-مرحبًا، أنا **عبدالسلام**! مطور ويب ومهتم بالتجارة الإلكترونية. هنا ستجد مشاريعي وأعمالي في البرمجة.
-
----
-
-## 🔧 المهارات:
-- HTML | CSS | JavaScript | Shopify Liquid
-- تحسين محركات البحث (SEO)
-- تطوير واجهات المستخدم (UI/UX)
+### 💡 My Expertise:
+- **Shopify Development**: Custom themes, Liquid coding, and app integrations.
+- **Conversion Optimization (CRO)**: Turning visitors into loyal customers.
+- **Advanced Analytics**: Data-driven decision making with tools like GA4.
+- **Content Creation**: Engaging content for e-commerce and digital marketing.
 
 ---
 
-## 📂 المشاريع البارزة:
-1. [**متجر إلكتروني مخصص**](https://github.com/your-repo) - متجر إلكتروني باستخدام Shopify.
-2. [**تصميم واجهة مستخدم احترافية**](https://github.com/your-repo) - تصميم موقع باستخدام CSS وBootstrap.
+### 🌐 Featured Projects:
+| 🛍️ **Project Name**      | 🔗 **Link**                              | 📖 **Details**                              |
+|--------------------------|------------------------------------------|---------------------------------------------|
+| Shopify Custom Store     | [View Repo](https://github.com/Absalam)  | Fully customizable Shopify theme.          |
+| UI/UX Portfolio          | [View Repo](https://github.com/Absalam)  | Modern, user-centric design projects.      |
+| Digital Learning Toolkit | [View Repo](https://github.com/Absalam)  | Toolkit for online educators and trainers. |
 
 ---
 
-## 📬 للتواصل:
-- 📧 البريد الإلكتروني: amr.omar304@gmail.com
-- 🌐 [LinkedIn](https://www.linkedin.com/in/amrabdelsalam87)
-
-- # أهلاً وسهلاً! 👋
-
-مرحبًا بكم في ملفي الشخصي. أنا عبدالسلام، أعمل كمطور ويب وأحب تقديم حلول إبداعية.
-
-- 💻 متخصص في تطوير المتاجر الإلكترونية.
-- 📈 أعمل على تحسين المتاجر لزيادة معدل التحويل.
+### 🛠 Tech Stack:
+- 💻 **Programming**: HTML, CSS, JavaScript, Liquid.
+- ⚙️ **Tools**: Shopify, Canva, FastStone Capture, Clipchamp.
+- 🌟 **Frameworks**: Bootstrap, TailwindCSS.
+- 📊 **Analytics**: Google Analytics, Hotjar.
 
 ---
 
-### ⭐ إحصائيات GitHub:
+### 📊 GitHub Insights:
+![Absalam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Absalam&show_icons=true&theme=radical)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Absalam&layout=compact&theme=radical)](https://github.com/Absalam)
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=AmrAbdelsalamGhanem&show_icons=true)
+---
 
-[![GitHub followers](https://img.shields.io/github/followers/AmrAbdelsalamGhanem?label=Followers&style=social)](https://github.com/AmrAbdelsalamGhanem)
-[![GitHub stars](https://img.shields.io/github/stars/AmrAbdelsalamGhanem?label=Stars)](https://github.com/AmrAbdelsalamGhanem)
+### 🏆 Achievements:
+- **300+ successful e-commerce projects** delivered globally.
+- Recognized for **innovative Shopify strategies**.
+- Speaker at **Digital Marketing Summit Egypt 2023**.
 
-## Example Code:
-### Variant Selector Snippet:
-```liquid
-<div id="variant-selector">
-  {% for variant in product.variants %}
-    <button 
-      class="variant-button" 
-      data-variant-id="{{ variant.id }}"
-      onclick="updateVariant('{{ variant.id }}')">
-      {{ variant.title }} - {{ variant.price | money }}
-    </button>
-  {% endfor %}
-</div>
+---
 
-<script src="{{ 'custom-scripts.js' | asset_url }}"></script>
-<link rel="stylesheet" href="{{ 'custom-styles.css' | asset_url }}">
+### 💬 Let's Connect:
+- 🌐 [LinkedIn](https://www.linkedin.com/in/amrabdelsalam87)  
+- ✉️ Email: amr.omar304@gmail.com  
+- 🎥 [YouTube Channel](https://www.youtube.com/@4DigitalMarketeer)
 
+---
+
+### 🔥 Fun Fact:
+"I turn coffee ☕ into code and ideas into reality!"
 
 
+[![Portfolio](https://img.shields.io/badge/-My_Portfolio-000?style=for-the-badge&logo=vercel)](https://yourportfolio.com)
+[![Hire Me](https://img.shields.io/badge/-Hire_Me-F39C12?style=for-the-badge)](https://www.upwork.com/freelancers/~015c9399ffbc405e2c?mp_source=share)
 
